@@ -10,4 +10,4 @@ Steps used here were:
 
 This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path (Udacity courses ud836/nd803). 
 
-![ezgif com-resize](https://user-images.githubusercontent.com/emulalor_inventory app_stage1.gif)
+![alt text](https://raw.githubusercontent.com/AleksandraWozniak/InventoryApp_stage1/master/emulalor_inventory app_stage1.gif)
